@@ -14,7 +14,7 @@
 #include "mime.h"
 #include "array.h"
 
-#define PORT 3000 
+#define PORT 12345 
 #define BUFFER_SIZE 1024
 #define MAX_DIR_LENGTH 2048 
 #define MAX_RESPONSE_SIZE 262144
